@@ -19,7 +19,7 @@
 # [6.0.0](https://github.com/akveo/ngx-admin/compare/v5.0.0...v6.0.0) (2020-08-19)
 
 
-### Bug Fixes
+### Bug Fixes 
 
 * **echarts:** set merge input ([#5632](https://github.com/akveo/ngx-admin/issues/5632)) ([dfaa5cd](https://github.com/akveo/ngx-admin/commit/dfaa5cd))
 * **sidebar:** toggle performance issues ([#5658](https://github.com/akveo/ngx-admin/issues/5658)) ([9eaf0bb](https://github.com/akveo/ngx-admin/commit/9eaf0bb))
